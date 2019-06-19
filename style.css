@@ -1,0 +1,40 @@
+h1{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+
+body{
+  background-color: #FFE4C4;
+}
+img{
+  width: 100px;
+}
+.food{
+  padding-left: 10px
+  display:inline-block;
+  margin-left: auto;
+  border-radius: double;
+}
+h3{
+  text-align: inherit;
+  color: 	#8A2BE2;
+  border-radius: 10px;
+}
+hr{
+  border-radius: 100px;
+  margin-left: 10px, 15px, 20px;
+  padding: 10px;
+}
+.images{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
+li{
+  text-align: center;
+  color: inherit;
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
+}
